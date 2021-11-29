@@ -1,4 +1,5 @@
   RSS_reader
+
  The application accepts a link to the RSS and adds converted data
   to a separate page with the ability to open each news
  ---------------------------
