@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rooma/AndroidStudioProjects/Retrofit/app/src/main/res/drawable/ic_launcher_background.xml" value="0.33125" />
         <entry key="..\:/Users/rooma/AndroidStudioProjects/Retrofit/app/src/main/res/layout/activity_main.xml" value="0.278125" />
         <entry key="..\:/Users/rooma/AndroidStudioProjects/Retrofit/app/src/main/res/layout/activity_news_detail.xml" value="0.278125" />
         <entry key="..\:/Users/rooma/AndroidStudioProjects/Retrofit/app/src/main/res/layout/bottom_sheet.xml" value="0.278125" />
