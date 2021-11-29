@@ -9,3 +9,4 @@
  - Timber - Logging of app data.
  - Retrofit – lib for work with network or with REST API.
  ---------------------------
+<img src="/previews/preview.gif" align="right" width="32%"/>
